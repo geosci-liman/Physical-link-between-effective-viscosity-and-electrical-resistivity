@@ -2,7 +2,7 @@ function nu = cal_visco_LabData_wet(nx,nz,T,P,C0,rho_ol)
 % cal_visco_LabData -- A function for calculating effective viscosity from
 %                       resistivity under "wet" condition
 % nx -- The number of horizontal grids in the profile (unit: km)
-% nz -- The number of vetical grids in the profile (unit:km)
+% nz -- The number of vertical grids in the profile (unit:km)
 % T --  Temperature (unit:K)
 % P -- Pressure (unit:GPa)
 % C0 -- Water content (unit:ppm)
