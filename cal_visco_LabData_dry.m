@@ -7,7 +7,7 @@ function nu = cal_visco_LabData_dry(nx,nz,T,P,rho)
 % P -- Pressure (unit:GPa)
 % rho -- resistivity
 
-% by liman 2023-3-2 try to get the viscosity from resistivity
+% by liman 2023-3-2 try to get the effective viscosity from resistivity
 % Comments, bug reports and questions, please sent to:
 % manli@zju.edu.cn.
 % $Revision: 1.0
