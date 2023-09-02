@@ -2,7 +2,7 @@ function nu = cal_visco_LabData_dry(nx,nz,T,P,rho)
 % cal_visco_LabData -- A function for calculating effective viscosity from
 %                       resistivity uunder "dry" condition
 % nx -- The number of horizontal grids in the profile (unit: km)
-% nz -- The number of vetical grids in the profile (unit:km)
+% nz -- The number of vertical grids in the profile (unit:km)
 % T --  Temperature (unit:K)
 % P -- Pressure (unit:GPa)
 % rho -- resistivity
