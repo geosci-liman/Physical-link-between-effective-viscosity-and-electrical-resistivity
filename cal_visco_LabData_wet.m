@@ -8,7 +8,7 @@ function nu = cal_visco_LabData_wet(nx,nz,T,P,C0,rho_ol)
 % C0 -- Water content (unit:ppm)
 % rho -- resistivity
 
-% by liman 2023-3-2 try to get the viscosity from resistivity
+% by liman 2023-3-2 try to get the effective viscosity from resistivity
 % Comments, bug reports and questions, please sent to:
 % manli@zju.edu.cn.
 % $Revision: 1.0
